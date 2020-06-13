@@ -1,4 +1,4 @@
-<?php
+<! –– iss yo boiiii nhi btaungaa lol ––><?php
 //idk man who dat lol
 header
 ('location:');
